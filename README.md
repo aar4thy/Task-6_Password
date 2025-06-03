@@ -1,9 +1,11 @@
  Task-6_Password
 
  Objective: Understand what makes a password strong and test it against password strength tools.
+
 Tools: Online free password strength checkers (e.g., passwordmeter.com)
 
 Why should we use strong passwords?
+
 Prevents unauthorized access to accounts.
 
 Protects sensitive personal information.
